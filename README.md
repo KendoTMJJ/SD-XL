@@ -18,7 +18,7 @@ Parámetros de generación:
 ## Prompt utilizado
 
 ```text
-<!-- Pega aquí el prompt que escribiste al ejecutar el programa -->
+Epic cinematic battle between Hulk and Wolverine in the middle of a destroyed city street, Hulk roaring furiously and smashing the ground with enormous strength, Wolverine charging toward Hulk with his adamantium claws extended, intense face expressions, powerful muscular poses, debris and dust flying through the air, shattered concrete, dramatic stormy sky, cinematic lighting, strong backlight, dynamic action composition, low camera angle, dramatic perspective, detailed superhero costumes, realistic skin and textures, highly detailed characters, intense atmosphere, photorealistic, sharp focus, high contrast, blockbuster superhero movie poster, epic scale, masterpiece, 8k
 ```
 
 Además se usó un *negative prompt* para evitar imágenes borrosas, de baja calidad, anatomía deforme, texto, logos o marcas de agua (ver [src/sd_xl_genai/__init__.py](src/sd_xl_genai/__init__.py)).
